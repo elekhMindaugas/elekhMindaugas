@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-## Ex Head of Finance Division @ Lithuanian Ministry of National Defence, Finance and Budget Department, Data Analytics program Alumni @ Turing College
+## Ex Head of Finance Division @ Lithuanian Ministry of National Defence, Finance and Budget Department
+## Data Analytics program Alumni @ Turing College
 
 
 #### Check out some of my projects!   
