@@ -6,7 +6,7 @@
 
 #### Check out some of my projects!   
 * [Data Analytics - AdventureWorks sales overview](https://github.com/elekhMindaugas/Excel-project) - Excel spreadsheet with sales analysis, insights and recommendations.
-* [Data Analytics - AdwentureWorks sales: filtering and aggregating] (https://github.com/elekhMindaugas/SQL-for-filtering) - SQL code to filter the results, aggregate them, finding and fixing mistakes in a given query.
+* [Data Analytics - AdwentureWorks sales: filtering and aggregating](https://github.com/elekhMindaugas/SQL-for-filtering) - SQL code to filter the results, aggregate them, finding and fixing mistakes in a given query.
 
 
 - 🔭 I’m currently looking for a job in Finance-data analytics field
