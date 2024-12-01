@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**elekhMindaugas/elekhMindaugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Ex Head of Finance Division @ Lithuanian Ministry of National Defence, Finance and Budget Department, Data Analytics program Alumni @ Turing College
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Check out some of my projects!   
+* [Data Analytics - AdventureWorks profit overview](https://github.com/elekhMindaugas/Excel-project) - Excel spreadsheet with sales analysis, insights and recommendations.
+
+
+
+- 🔭 I’m currently looking for a job in Finance-data analytics field
+- 🌱 I’m currently learning Python
+- ⚡ Interesting fact: Ex-military intelligence/reconaissance (15Y)
